@@ -4,15 +4,6 @@
 
 ![ Event Management Platform using Next.js 14](/.github/images/img_main.png " Event Management Platform using Next.js 14")
 
-[![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy "Ask Me Anything!")
-[![GitHub license](https://flat.badgen.net/github/license/sanidhyy/evently?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/evently/blob/main/LICENSE "GitHub license")
-[![Maintenance](https://flat.badgen.net/static/Maintained/yes?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/evently/commits/main "Maintenance")
-[![GitHub branches](https://flat.badgen.net/github/branches/sanidhyy/evently?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/evently/branches "GitHub branches")
-[![Github commits](https://flat.badgen.net/github/commits/sanidhyy/evently?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/evently/commits "Github commits")
-[![Vercel status](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://event-ly.vercel.app/ "Vercel status")
-[![GitHub issues](https://flat.badgen.net/github/issues/sanidhyy/evently?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/evently/issues "GitHub issues")
-[![GitHub pull requests](https://flat.badgen.net/github/prs/sanidhyy/evently?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/evently/pulls "GitHub pull requests")
-
 <!-- Table of Contents -->
 <details>
 
